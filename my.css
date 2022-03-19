@@ -1,0 +1,57 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+#mainContainer
+{
+	width:960px;
+	height:100%;
+	
+	margin:0px auto;
+
+}
+body
+{
+	font-family:Tahoma, Geneva, sans-serif;
+   background-image:url(images/bodybkg.gif);
+}
+#companyTitle
+{
+	font-size:44px;
+	color:#D6A965;
+	margin-top:5px;
+	text-shadow:black 2px 2px;
+	font-weight:500;
+}
+#navigationBar
+{
+	height:45px;
+	background-color:#271408;
+	margin-top:5px;
+	border-radius:10px;
+}
+#navigationBar ul
+{
+	list-style:none;
+	
+}
+#navigationBar ul li
+{
+	width:150px;
+	float:left;
+	line-height:40px;
+	text-align:center;
+}
+#navigationBar ul li a
+{
+	color:white;
+	text-decoration:none;
+	font-weight:900;
+	font-size:14px;
+}
+#navigationBar ul li a:hover
+{
+	color:#D6A965;
+	
+}
